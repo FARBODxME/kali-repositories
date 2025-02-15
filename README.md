@@ -2,6 +2,7 @@
 Solution for Kali Linux Repository Issues in Iran – Fast & Reliable Mirrors
 **Fast & Stable Kali Repositories for Iran**
 
+
 ```
 # See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/
 #deb http://http.kali.org/kali kali-rolling main contrib non-free
@@ -16,8 +17,6 @@ deb http://ftp.halifax.rwth-aachen.de/kali/ kali-experimental main contrib non-f
 deb-src http://ftp.halifax.rwth-aachen.de/kali/ kali-experimental main contrib non-free
 deb-src http://ftp.halifax.rwth-aachen.de/kali/ kali-rolling main contrib non-free
 deb http://ftp.halifax.rwth-aachen.de/kali/ kali-bleeding-edge main contrib non-free
-
-
 ```
 
 ## replace this code with /etc/apt/sources.list all line code delete and paste this code :
