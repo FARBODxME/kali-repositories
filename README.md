@@ -25,6 +25,7 @@ deb http://ftp.halifax.rwth-aachen.de/kali/ kali-bleeding-edge main contrib non-
 
 
 "This repository provides an alternative list of fast and stable repositories for Kali Linux, ensuring users in Iran can update without issues. If you discover a better source, feel free to contribute!"
+
 "این مخزن فهرستی جایگزین از ریپوهای سریع و پایدار برای کالی لینوکس ارائه می‌دهد تا کاربران در ایران بتوانند بدون مشکل به‌روزرسانی کنند. اگر منبع بهتری پیدا کردید، لطفاً مشارکت کنید!"
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farbodxme/kali-repositories&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)
